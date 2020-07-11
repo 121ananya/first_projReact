@@ -1,7 +1,7 @@
 import React from "react";
 import Sdata from './Sdata';
 import Card from '../src/Card';
-import web from '../src/images/s1.PNG';
+//import web from '../src/images/s1.PNG';
 const Service = () =>
 {
     return(
